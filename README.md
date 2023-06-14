@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Nest.js, Next.js, PrimaORM**...
 - 📫 How to reach me **renanrosaschlemper@gmail.com**
 
--- Connect with me: <p><a href="https://linkedin.com/in/renan-rosaschlemper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renan-rosa-schlemper/" height="30" width="40" /></a>
+-- Connect with me: <p><a href="https://www.linkedin.com/in/renan-rosa-schlemper-18b73b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renan-rosa-schlemper/" height="30" width="40" /></a>
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Rosa&show_icons=true&theme=dracula&count_private=true)
 
