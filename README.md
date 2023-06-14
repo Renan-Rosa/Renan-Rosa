@@ -1,4 +1,4 @@
-## Hi, My name is Renan-Rosa 🖐️
+## Hi, My name is Renan 🖐️
 - 🔭 I’m currently working on **Softilux**
 - 🌱 I’m currently learning **Nest.js, Next.js, PrimaORM**...
 - 📫 How to reach me **renanrosaschlemper@gmail.com**
