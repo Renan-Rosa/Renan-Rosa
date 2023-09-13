@@ -1,6 +1,6 @@
 ## Hi, My name is Renan 🖐️
 - 🔭 I’m currently working on **Softilux**
-- 🌱 I’m currently learning **React.js, Next.js, PrimaORM, MongoDB, TypeScript**...
+- 🌱 I’m currently learning **React.js, Next.js, PrimaORM, MongoDB, TypeScript and IA✨**...
 - 📫 How to reach me **renanrosaschlemper@gmail.com**
 
 -- Connect with me: <p><a href="https://www.linkedin.com/in/renan-rosa-schlemper-18b73b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renan-rosa-schlemper/" height="30" width="40" /></a>
