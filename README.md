@@ -1,22 +1,38 @@
-## Hi, My name is Renan 🖐️
-- 🔭 I’m currently working on **Softilux**
-- 🌱 I’m currently learning **React.js, Next.js, PrimaORM, MongoDB, TypeScript and IA✨**...
-- 📫 How to reach me **renanrosaschlemper@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Renan%20Rosa%20Schlemper&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 
--- Connect with me: <p><a href="https://www.linkedin.com/in/renan-rosa-schlemper-18b73b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renan-rosa-schlemper/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Senior+Full-stack+Developer;Building+Softilux;Leading+a+development+team;Exploring+AI+in+real+products" alt="Typing SVG" />
+</p>
 
-## Technologies I use in my day
+### About me
 
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
- 
-</div><br/>
+Senior full-stack developer focused on the JavaScript/TypeScript ecosystem.
+Currently building **Softilux** and leading a development team.
 
-Passionate about technology, and always looking to evolve more and more.
+- Building web and mobile products with React, Next.js, React Native and NestJS
+- Exploring AI applied to real-world products
+- Passionate about clean architecture, developer experience and team growth
+
+### Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mysql,prisma,docker,vitest,githubactions&perline=12" alt="Tech stack" />
+  </a>
+</p>
+
+### Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renan-rosa-schlemper-18b73b235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:renanrosaschlemper@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USER/YOUR_USER/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_USER/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
